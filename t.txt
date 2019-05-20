@@ -23,13 +23,6 @@
       "vc":"CollectionViewVC",
       "title" : "CollectionView",
       "url" : "http://b.hiphotos.baidu.com/image/pic/item/32fa828ba61ea8d3fcd2e9ce9e0a304e241f5803.jpg"
-    },
-    {
-      "id" : 3,
-      "stamp" : "1558195583",
-      "subtitle" : "",
-      "title" : "Other",
-      "url" : "http://e.hiphotos.baidu.com/image/pic/item/4610b912c8fcc3cef70d70409845d688d53f20f7.jpg"
     }
   ],
   "message" : "ok",
