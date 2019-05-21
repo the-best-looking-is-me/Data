@@ -23,6 +23,14 @@
       "vc":"CollectionViewVC",
       "title" : "CollectionView",
       "url" : "http://b.hiphotos.baidu.com/image/pic/item/32fa828ba61ea8d3fcd2e9ce9e0a304e241f5803.jpg"
+    },
+	{
+      "id" : 2,
+      "stamp" : "1558166583",
+      "subtitle" : "",
+      "vc":"MansoryUseVC",
+      "title" : "约束",
+      "url" : "http://b.hiphotos.baidu.com/image/pic/item/32fa828ba61ea8d3fcd2e9ce9e0a304e241f5803.jpg"
     }
   ],
   "message" : "ok",
