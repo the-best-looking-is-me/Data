@@ -40,7 +40,7 @@
       "title" : "自定义上下左右滑动",
       "url" : "http://b.hiphotos.baidu.com/image/pic/item/32fa828ba61ea8d3fcd2e9ce9e0a304e241f5803.jpg"
     },
-{
+	{
       "id" : 5,
       "stamp" : "1558166583",
       "subtitle" : "",
